@@ -1,0 +1,7 @@
+Honda,Accord,2019,50000.0,p,d,A2B2C2
+Honda,Fit,2019,45000.0,p,d,A3B3C3
+Honda,HR-V,2019,56000.0,p,d,A4B4C4
+Honda,CR-V,2019,23000.0,p,d,A5B5C5
+Honda,Insight,2019,200.0,p,d,A7B7C7
+Honda,Passport,2019,34500.0,p,d,A8B8C8
+Honda,Civic Coupe,2019,33400.0,p,d,A9B9C9

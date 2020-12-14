@@ -1,0 +1,4 @@
+Janthosh/Patel/janthosh101/102 Bloore St/9054528888/0000;Honda,Odyssey,2017,8000.0,o,I,A1B1C1;Honda,NSX,2018,24400.0,b,I,A2B2C2
+Kendrick/Lamar/kdot365/25 Compton Road/9054950349/2887;Honda,Civic,2018,80000.0,p,d,A1B1C1;Honda,CR-V,2008,10000.0,p,d,A2B2C2;Honda,Civic,2008,5000.0,p,d,A3B3C3;Honda,CR-V,2009,10000.0,p,d,A4B4C4;Honda,Fit,2009,2000.0,p,d,A5B5C5
+Manthosh/Patel/manthosh101/101 Bloore St/9054527777/1321;Honda,Civic,2000,2000.0,b,b,A1B1C1;Honda,Accord,2018,6400.0,o,d,A2B2C2;Honda,Civic,2018,14400.0,p,s,A3B3C3
+Santhosh/Patel/santhosh101/100 Bloore St/9054526666/1234;Honda,Accord,2018,3400.0,p,s,A1B1C1;Honda,Civic,2002,200.0,p,s,A2B2C2;Honda,CR-V,2018,5000.0,p,d,A3B3C3

@@ -1,0 +1,58 @@
+				****WELCOME TO THE ATRELL HONDA DEALERSHIP****
+					
+					 =======CLIENT=======
+The purpose of this program is to provide a easier interface for the user and other employees of the dealership.
+from the Login Interface, simply select the "Client" from the dropdown menu to proceed to the client's login screen.
+If you happen to be an employee of the dealership.select the respected option from the dropdown menu to proceed to the employer's UI.
+If you are a new Client,Thank you for choosing Atrell Honda! press the "create Account" button and fill out the necessary
+information to create your account.Congratulations! you're a member of our team now.
+after logging in, you will proceed to see to a interface that displays all of your essential information like your dealer, your purchased and owned cars and your personal information.
+your cars and your personal informations.i f you wish to purchase a vehicle,click the "Buy Car" button.
+This will take you to our huge inventory where you  can choose the vechile you wish to purchase.
+Not sure what to choose from our vast inventory? We've got you covered.You can sort the inventory
+from the highest to lowest in price,year and by alphabetical order.
+Once you've made up your mind you can proceed to buy the car by finding the Vehicle identification Number(VIN) of the desired car, selecting it and confriming your selection by pressing "buy"
+You have now succesfully bought the car and this will be recorded in your personal vehicle record list.
+wishing to sell a car? Press the "Delete vehicle" button to remove the desired vehicel from your car list.
+					
+					=======DEALER=======
+Once logged in using your information, you will be directed to your main page where you can view the list of your
+clients and  our dealership's inventory.If you wish to proceed to your client's interface
+to edit or delete client's information,click the "Client information" button and proceed to follow your objective.
+If you wish to edit the inventory,click the "inventory" widget.
+
+					=======MECHANIC=======
+
+After logging in, you will be able to view your clients and  the dealerships's inventory.
+when the "client information" is clicked, you will be able to update the information of their cars such as
+the status of the car and the issue of the car.You can also delete your client list after the service is completed 
+with the "delete client" button.
+You can also view the inventory to change the status of the cars in the inventory using the "View inventory" button.
+				
+					=======BOSS=======
+You have all common functionality of all the employees.
+As the boss, you have the ability to do essentially anything that this program is capable of.
+To view the full lists of Clients, dealers, mechanics, or inventory, select either View Clients, view dealers, view mechanics, or view inventory. 
+To view each individual record, select the record in the selection dropdowns sorted alphabetically by username as well as VIN  number for the inventory. 
+To delete a record, after selection of an individual record, select the Delete button next to the label, "Actions for the selected Item".
+To edit a person, after the selection of an individual person, select the edit button next to the label, "Actions for the selected Item".
+To delete a car from the client's carlist, select the client, and next to the label, "Actions for selected List", select Delete Car, and enter the VIN number of the car you wish to delete.
+To Search for a record, enter the username of the person or the VIN number of the inventory car in the search bar and underneath,
+select the category you would like to search in.
+To insert cars into the inventory, in the red box below the search section, enter all details of the car, excluding the servicing details and issue because for the inventory, since these 
+are brand new cars, they will automatically be set to perfect condition and done servicing. When ready, press "Insert car to Inventory"
+To insert cars into a client's carList, fill all the fields mentioned above INCLUDING the issue and status, and make sure a client is selected before pressing "Insert Car to Client"
+For car issue, please enter an option from the following:
+Oil Change
+Perfect Condition
+Brake replacement
+tuning problems
+Air Conditioning problem
+Engine Problems
+Unknown Issue
+To hire a dealer, press "Hire", and select employee type, and enter employee details.
+To sign out, press "Sign Out" and to exit, press "Exit".
+
+
+											Danindu,Tilak & Mabin
+   
